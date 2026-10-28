@@ -1,6 +1,6 @@
 # Tracking Recovery Toolkit
 
-A repair playbook for when GA4 conversion tracking is broken badly enough that a business genuinely can't tell where its leads are coming from. Built from the kind of tracking recovery work I do at [motabar.builds.stuff](https://motabar.builds.stuff), the sort of engagement that starts with someone saying their numbers just don't add up anymore.
+A repair playbook for when GA4 conversion tracking is broken badly enough that a business genuinely can't tell where its leads are coming from. Built from the kind of tracking recovery work I do at [motabar.builds.stuff](https://motabarbuildstuff.com/), the sort of engagement that starts with someone saying their numbers just don't add up anymore.
 
 ## The problem this solves
 
@@ -35,3 +35,12 @@ The capture check runs first against a sample of known-converted sessions (a for
 ## Stack
 
 BigQuery, Google Tag Manager, GA4, SQL
+
+## Related
+
+* Case study: [Fixing Broken Tracking & Unlocking Lead Growth](https://motabarbuildstuff.com/case-studies/fixing-broken-tracking-unlocking-lead-growth/)
+* Guide: [Why is my GA4 direct traffic so high?](https://motabarbuildstuff.com/blog/why-is-ga4-direct-traffic-so-high/)
+* Guide: [Why don't Meta, Google Ads and GA4 conversions match?](https://motabarbuildstuff.com/blog/why-meta-google-ads-ga4-conversions-dont-match/)
+* Service: [GA4 audit and repair](https://motabarbuildstuff.com/ga4-setup-consultant/)
+
+Built by [Motabar Javaid](https://motabarbuildstuff.com/about/), analytics engineer at [motabar.builds.stuff](https://motabarbuildstuff.com/).
